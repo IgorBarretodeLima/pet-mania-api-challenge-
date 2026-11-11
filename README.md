@@ -154,5 +154,6 @@ Retorna todos os pets gravados no banco de dados em formato JSON:
 
    <img width="1379" height="676" alt="Captura de tela 2026-11-11 163335" src="https://github.com/user-attachments/assets/43205be6-7982-45b6-9c8e-41bd8d680c3e" />
 
-<img width="1914" height="972" alt="Captura de tela 2026-11-11 161735" src="https://github.com/user-attachments/assets/ae2bafd0-3254-471f-9608-e435c3088cfd" />
+<img width="1072" height="910" alt="Captura de tela 2026-11-11 164229" src="https://github.com/user-attachments/assets/bfd8757d-12fb-4431-8f42-7e16a43b625d" />
+
 
