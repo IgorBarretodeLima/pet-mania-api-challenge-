@@ -43,8 +43,8 @@ SELECT * FROM pet;
 | `especie` | `VARCHAR` | Espécie (ex: *"Cachorro"*, *"Gato"*) |
 | `raca` | `VARCHAR` | Raça do pet |
 | `idade` | `INT` | Idade em anos |
-| `sexo` | `VARCHAR` | Sexo (*"Macho"* / *"Fêmea"*) |
-| `porte` | `VARCHAR` | Porte (*"Pequeno"*, *"Médio"*, *"Grande"*) |
+| `sexo` | `num` | Sexo (*"Macho"* / *"Fêmea"*) |
+| `porte` | `num` | Porte (*"Pequeno"*, *"Médio"*, *"Grande"*) |
 | `personalidade`| `VARCHAR` | Descrição comportamental |
 | `foto` | `TEXT` | URL da imagem do pet |
 | `disponivel` | `BOOLEAN` | Status para adoção (`true` / `false`) |
