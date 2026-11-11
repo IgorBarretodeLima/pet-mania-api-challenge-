@@ -1,4 +1,4 @@
-[readme_md (1).md](https://github.com/user-attachments/files/34702849/readme_md.1.md)
+
 # 🐾 Pet Mania API Challenge
 
 Uma API RESTful completa desenvolvida em **Spring Boot** para o sistema de adoção de animais **Pet Mania**. A aplicação permite cadastrar, consultar, editar e remover pets para adoção, integrada a um banco de dados MySQL e consumida por uma interface web moderna.
@@ -9,8 +9,6 @@ Uma API RESTful completa desenvolvida em **Spring Boot** para o sistema de adoç
 
 ### 🎨 Interface Web (Frontend)
 Visualização dos pets cadastrados e disponíveis para adoção:
-
-![Interface Pet Mania](./assets/frontend_preview.png)
 
 ---
 
